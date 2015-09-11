@@ -8,7 +8,7 @@
     <meta name="author" content="Wayne Ramshaw">
     <link rel="icon" href="favicon.ico">
 
-    <title>AM2PM Personal Trainer</title>
+    <title>Wayne Ramshaw</title>
 
     <!-- Bootstrap core CSS -->
     <!-- Latest compiled and minified CSS -->
@@ -194,7 +194,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Web2Dezine.com &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+        <p>&copy; 2015 Web2Dezine.com &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
       </footer>
 
     </div><!-- /.container -->
